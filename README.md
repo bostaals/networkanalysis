@@ -22,5 +22,6 @@ In conclusion, the real world network has a higher performance compared to the o
 The Wikipedia network is an open-source network, extracted from Stanford Network Analysis Platform (SNAP) . The school dataset is not open source, however there is a possibility to apply for access . The participants are anonymized to protect the privacy and data will not be shared.
 
 Wikipedia dataset: https://snap.stanford.edu/data/wiki-RfA.html
+
 School dataset application: https://www.cils4.eu/index.php?option=com_content&view=article&id=5&Itemid=6
 
